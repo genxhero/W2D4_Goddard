@@ -41,6 +41,25 @@ ol {
 .user_review h4 {
   font-size: 18px;
   font-weight: bold;
+  cursor: pointer;
+  outline: none;
+}
+
+
+#radio {
+  cursor: pointer;
+  outline: none
+}
+
+#submit {
+  cursor: pointer;
+  outline: none;
+  
+}
+
+#expertise {
+  cursor: pointer;
+  outline: none;
 }
 
 
